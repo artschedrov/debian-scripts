@@ -1,4 +1,4 @@
 #+title: Different scripts for Linux, bash etc
 * Content
-  - [[debian-docker-install.org]]
-  - [[other.org]]
+  - [[debian-docker-install.org][Debian install docker]]
+  - [[other.org][Other scripts]]
