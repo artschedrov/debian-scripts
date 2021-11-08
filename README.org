@@ -1,0 +1,1 @@
+#+title: Different scripts for Linux, bash etc
