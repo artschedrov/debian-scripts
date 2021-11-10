@@ -57,6 +57,16 @@ Update then install vscodium:
 
 * Install youtube-dl & mpv (Fedora)
 
+** Youtube-dl
+
+Install:
+
+~wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl~
+
+Setup exec file:
+
+~chmod a+rx /usr/local/bin/youtube-dl~
+
 ** MPV
 
 Add repository Fusion:
