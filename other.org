@@ -58,5 +58,4 @@ Update then install vscodium:
 
 * See ports
 ** lsof command
-~lsof -i -P -n~
 ~lsof -i -P -n | grep LISTEN~
