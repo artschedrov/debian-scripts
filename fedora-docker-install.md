@@ -11,8 +11,10 @@ Install the dnf-plugins-core package (which provides the commands to manage your
 
 ### Install Docker Engine
 Install the latest version of Docker Engine and containerd, or go to the next step to install a specific version:
+
 `sudo dnf install docker-ce docker-ce-cli containerd.io`
 
 ## Configure Docker to start on boot
 ` sudo systemctl enable docker.service`
- `sudo systemctl enable containerd.service`
+
+`sudo systemctl enable containerd.service`
